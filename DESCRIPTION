@@ -1,0 +1,9 @@
+Package: tlog
+Type: Package
+Title: Functions for training log shiny app, train-log
+Version: 0.1.0
+Author: Kyle Humphrey <khumph2@gmail.com>
+Maintainer: Kyle Humphrey <khumph2@gmail.com>
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
